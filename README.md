@@ -10,7 +10,7 @@ Here is a link to the final version of the project:
 
 [Link to the github repository](https://github.com/lonHeligas/semantic-html)
 
-![Screenshot of the final page](./Assets/images/semantic-html-screenshot.png)
+![Screenshot of the final page](./assets/images/semantic-html-screenshot.png)
 
 ## User Story
 
