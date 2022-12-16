@@ -7,8 +7,10 @@ The goal of this assignment is to convert all of the div tags in the original HT
 Here is a link to the final version of the project:
 
 [Cleck here to see my final project](https://lonheligas.github.io/semantic-html/)
-[Screenshot of the final page](./Assets/images/semantic-html-screenshot.png)
+
 [Link to the github repository](https://github.com/lonHeligas/semantic-html)
+
+![Screenshot of the final page](./Assets/images/semantic-html-screenshot.png)
 
 ## User Story
 
